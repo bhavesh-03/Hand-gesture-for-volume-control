@@ -82,6 +82,6 @@ while True :
 
 cv2.destroyAllWindows()
 camera.release()
-
+#added noting changes  
 #trial comment
    
